@@ -28,7 +28,5 @@
 
 （3）：[https://gitee.com/datawhalechina/hands-on-data-analysis](https://gitee.com/datawhalechina/hands-on-data-analysis)
 - B站视频：[https://www.bilibili.com/video/BV1Uv411p77r](https://www.bilibili.com/video/BV1Uv411p77r)
-
--关于Pandas的操作，你可以参考*Joyful-Pandas*，可以让你的数据分析学习事半功倍：[https://gitee.com/cocowjy1126/joyful-pandas](https://gitee.com/cocowjy1126/joyful-pandas)
-
--本次学习使用的书籍《利用Python进行数据分析》
+- 关于Pandas的操作，你可以参考*Joyful-Pandas*，可以让你的数据分析学习事半功倍：[https://gitee.com/cocowjy1126/joyful-pandas](https://gitee.com/cocowjy1126/joyful-pandas)
+- 本次学习使用的书籍《利用Python进行数据分析》
