@@ -19,6 +19,10 @@
 | 第三章 | 数据建模 |
 |   | 模型评估 |
 
+【课程总结】
+
+太长了，我写在csdn上了：http://t.csdn.cn/MCEYr
+
 【教程地址】
 - 开营视频：动手学数据分析_哔哩哔哩_bilibili
 [https://m.bilibili.com/video/BV1Hi4y1179E](https://m.bilibili.com/video/BV1Hi4y1179E)
