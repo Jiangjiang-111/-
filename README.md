@@ -2,8 +2,7 @@
 
 【课程记录】
 
-参加datawhale9月的动手学数据分析组队学习
-记录过程代码在这里
+数据分析的实战，完成kaggle上泰坦尼克的任务（https://www.kaggle.com/c/titanic/overview） ，实战数据分析全流程。
 
 【课程编排】
 
@@ -21,7 +20,7 @@
 
 【课程总结】
 
-太长了，我写在csdn上了：http://t.csdn.cn/MCEYr
+http://t.csdn.cn/MCEYr
 
 【教程地址】
 - 开营视频：动手学数据分析_哔哩哔哩_bilibili
